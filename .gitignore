@@ -124,3 +124,6 @@ work_dirs/
 *.jpg
 *.jpeg
 *.png
+!demo/*.jpg
+!resources/*.jpg
+!resources/*.png
